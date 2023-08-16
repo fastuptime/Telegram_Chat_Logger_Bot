@@ -51,6 +51,7 @@ Telegram Chat Logger Bot / Telegram Sohbet Kaydedici Bot
 - 🏓 [Fast Uptime](https://fastuptime.com/)<br>
 - 🪄 All kinds of projects are made <br>
 - 🧨 You can contact us to make a paid project<br>
+- 💸 You can contact for paid installation<br>
 - ☄️ [Click For Contact](mailto:fastuptime@gmail.com)<br>
 
 # 🎯 License 🎯
