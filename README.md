@@ -43,7 +43,7 @@ Telegram Chat Logger Bot / Telegram Sohbet Kaydedici Bot
 
 ## ⛳Tech Stack ⛳
 
-**🗄️ Server:** Node, telegraf, colors, moment, croxydb
+**🗄️ Server:** Node, telegraf, colors, moment, fs
 
 ---
 - ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
